@@ -25,5 +25,7 @@ public class App {
         String result = business.doBusiness();
 
         System.out.println(result);
+
+        System.exit(0);
     }
 }
