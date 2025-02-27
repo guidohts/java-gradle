@@ -13,6 +13,12 @@ To build the project, run the following command:
 
     ./gradlew build
 
+## Run
+
+To run the project, run the following command:
+
+    ./gradlew run
+
 ## Test
 
 To run the tests, use the following command:
